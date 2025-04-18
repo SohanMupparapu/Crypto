@@ -1,0 +1,5 @@
+1 Functional Requirements
+
+FR1: The system shall establish a connection to the specified MySQL database using provided credentials.
+FR2: The system shall allow users to execute predefined SQL queries related to cryptocurrency data.
+FR3: The system shall display the results of SQL queries in a tabulated format using the tabulate library.​
